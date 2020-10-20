@@ -1,0 +1,8 @@
+{
+  "name": "AgroPrueba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c8eaf5f2"
+}
